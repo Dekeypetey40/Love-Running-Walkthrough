@@ -265,8 +265,8 @@ footer {
 /* Sign up form*/
 
 .form-section {
+    background-image: url(../images/formbg.jpg);
     clear: left;
-    background: url("../images/formbg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
